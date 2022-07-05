@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <li>🇷🇺 I live in Moscow, Russia.</li>
-<li>🎒 I'm an School 21/42 student.</li>
+<li>🎒 I'm School 21/42 student.</li>
 <li>✉️ You can shoot me an email at yurakovalev99@gmail.com.</li>
 
 -----
