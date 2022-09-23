@@ -43,6 +43,9 @@ Project was made with MSX646 aka kezekiel
 ----------------------------------------------------------------
 ## 🐶 My pet projects
 
+### <a href="https://github.com/ysachiko/Own_Habr">Own_Habr</a>
+Here i'm trying to make something like production-project. I use webpack, typescript, react, scss. 
+
 ### <a href="https://github.com/ysachiko/CloudDrive">Cloud Drive</a>
 
 This is full-stack project with MongoDB Express React Node.js
